@@ -1,3 +1,5 @@
+# [https://github.com/all-in-one-of/Renderman/tree/master/RIS/openvdb](https://github.com/all-in-one-of/Renderman/tree/master/RIS/openvdb)
+
 # RENDERMAN Lecture Code
 The following lines need to be added to your .bashrc in the NCCA linux labs to get renderman to work
 
